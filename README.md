@@ -10,7 +10,7 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 
 ### 🚀 What I Do:
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
   <div>
     <ul>
       <li>🧪 <strong>Manual Testing</strong>: Functional, UI, Regression, Smoke, Sanity, UAT.</li>
@@ -20,7 +20,7 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
       <li>🛠 <strong>CI/CD Integration</strong>: GitLab CI.</li>
     </ul>
   </div>
-  <div style="flex-grow: 1; text-align: right;">
+  <div>
     <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" height="300" alt="Testing Gif">
   </div>
 </div>
