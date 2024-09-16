@@ -52,6 +52,7 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 **Description**: Automated the testing of web elements on the "Locators Practice" page to verify form functionality, element visibility, and navigation. Used various locators (ID, CSS, Xpath) to interact with different elements on the page.
 
 **Key Highlights**:
+
 Tools: Selenium WebDriver, Java/Python, TestNG, Maven, Jenkins, Git.
 Test Cases: Login functionality, input validation, element visibility, and navigation testing.
 
