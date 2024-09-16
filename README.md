@@ -1,4 +1,3 @@
-
 # Hi there, I'm SHUBHAM! 👋
 
 ![Software Tester](https://img.shields.io/badge/Software%20Tester-QA%20Enthusiast-blue) ![Automation](https://img.shields.io/badge/Test%20Automation-Selenium-green) ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Functional%20%7C%20Regression%20%7C%20UAT-orange)
@@ -11,15 +10,15 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 
 ### 🚀 What I Do:
 
-- 🧪 **Manual Testing**: Functional, UI, Regression, Smoke, Sanity, UAT.
-- 🤖 **Automation Testing**: Selenium,TestNG.
-- 🌐 **API Testing**: Postman,API.
-- 🐛 **Bug Tracking**: Jira.
-- 🛠 **CI/CD Integration**: GitLab CI.
+| **Skills** | **GIF** |
+| :--------- | :------ |
+| - 🧪 **Manual Testing**: Functional, UI, Regression, Smoke, Sanity, UAT. | <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="250" alt="Testing Gif"> |
+| - 🤖 **Automation Testing**: Selenium,TestNG. | |
+| - 🌐 **API Testing**: Postman,API. | |
+| - 🐛 **Bug Tracking**: Jira. | |
+| - 🛠 **CI/CD Integration**: GitLab CI. | |
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="250" alt="Testing Gif">
-</p>
+---
 
 ## 🔧 Tech Stack:
 
@@ -88,6 +87,6 @@ Checkout Process: Tested form validation, user details input, and order placemen
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSsd111)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhadixit111@gmail.com)
 
+---
 
-
-*Thanks for visit*! 😊
+*Thanks for visiting!* 😊
