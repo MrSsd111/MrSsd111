@@ -54,6 +54,7 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 **Key Highlights**:
 
 Tools: Selenium WebDriver, Java/Python, TestNG, Maven, Jenkins, Git.
+
 Test Cases: Login functionality, input validation, element visibility, and navigation testing.
 
 **Challenges**: Dynamic element handling using locator strategies and implementing explicit waits.
@@ -64,9 +65,11 @@ Test Cases: Login functionality, input validation, element visibility, and navig
 **Description**: This project involved automating the testing of key e-commerce functionalities on the E-Kart website. The focus was on automating product selection, cart management and the checkout process using Selenium Webdriver.
 
 **Key Highlights**:
+
 Tools: Selenium WebDriver, Java/Python, TestNG, Maven, Jenkins, Git.
 
 **Features Tested**:
+
 Product Search and Selection: Automated adding products to the cart.
 
 Cart Functionality: Verified cart updates, item quantities, and total price calculations.
@@ -87,4 +90,4 @@ Checkout Process: Tested form validation, user details input, and order placemen
 
 
 
-Thanks for visit! 😊
+*Thanks for visit*! 😊
