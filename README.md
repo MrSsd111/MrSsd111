@@ -64,6 +64,19 @@ Automated 90% of the testing, reducing manual effort and improving regression te
 
 **Key Highlights**:
 
+Tools: Selenium WebDriver, Java/Python, TestNG, Maven, Jenkins, Git.
+
+**Features Tested**:
+
+Product Search and Selection: Automated adding products to the cart.
+Cart Functionality: Verified cart updates, item quantities, and total price calculations.
+Checkout Process: Tested form validation, user details input, and order placement.
+
+**Challenges**: 
+Handled dynamic elements and utilized explicit waits to synchronize page loads with test execution.
+
+**Outcome**:
+Successfully automated the e-commerce workflow, enhancing test coverage for critical user interactions and reducing manual regression testing efforts.
 ---
 
 ## 📫 How to Reach Me:
