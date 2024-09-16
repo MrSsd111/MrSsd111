@@ -48,20 +48,21 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 
 ## 🚀 Projects:
 
-### 1. Automation Testing of Web Elements using Selenium.
+### 1. Sign-in Page Automation using Selenium.
 **Description**: Automated the testing of web elements on the "Locators Practice" page to verify form functionality, element visibility, and navigation. Used various locators (ID, CSS, Xpath) to interact with different elements on the page.
 
-Key Highlights:
-
+**Key Highlights**:
 Tools: Selenium WebDriver, Java/Python, TestNG, Maven, Jenkins, Git.
 Test Cases: Login functionality, input validation, element visibility, and navigation testing.
 Challenges: Dynamic element handling using locator strategies and implementing explicit waits.
 
-Outcome:
+**Outcome**:
 Automated 90% of the testing, reducing manual effort and improving regression testing speed.
 
-### 2. [Project Name]
-**Description**: A performance testing project using JMeter to optimize application speed.
+### 2. Automation Testing of E-commerce Website
+**Description**: This project involved automating the testing of key e-commerce functionalities on the E-Kart website. The focus was on automating product selection, cart management and the checkout process using Selenium Webdriver.
+
+**Key Highlights**:
 
 ---
 
