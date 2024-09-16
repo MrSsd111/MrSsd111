@@ -10,22 +10,15 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 
 ### 🚀 What I Do:
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <ul>
-      <li>🧪 <strong>Manual Testing</strong>: Functional, UI, Regression, Smoke, Sanity, UAT.</li>
-      <li>🤖 <strong>Automation Testing</strong>: Selenium, TestNG.</li>
-      <li>🌐 <strong>API Testing</strong>: Postman, API.</li>
-      <li>🐛 <strong>Bug Tracking</strong>: Jira.</li>
-      <li>🛠 <strong>CI/CD Integration</strong>: GitLab CI.</li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" height="300" alt="Testing Gif">
-  </div>
-</div>
+- 🧪 **Manual Testing**: Functional, UI, Regression, Smoke, Sanity, UAT.
+- 🤖 **Automation Testing**: Selenium,TestNG.
+- 🌐 **API Testing**: Postman,API.
+- 🐛 **Bug Tracking**: Jira.
+- 🛠 **CI/CD Integration**: GitLab CI.
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="250" alt="Testing Gif">
+</p>
 
 ## 🔧 Tech Stack:
 
@@ -94,6 +87,5 @@ Checkout Process: Tested form validation, user details input, and order placemen
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSsd111)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhadixit111@gmail.com)
 
----
 
-*Thanks for visiting!* 😊
+*Thanks for visit*! 😊
