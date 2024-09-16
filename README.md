@@ -51,6 +51,9 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 ### 1. Automation Testing of Web Elements using Selenium.
 **Description**: Automated the testing of web elements on the "Locators Practice" page to verify form functionality, element visibility, and navigation. Used various locators (ID, CSS, Xpath) to interact with different elements on the page.
 
+Outcome:
+Automated 90% of the testing, reducing manual effort and improving regression testing speed.
+
 ### 2. [Project Name]
 **Description**: A performance testing project using JMeter to optimize application speed.
 
