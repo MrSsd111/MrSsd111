@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm SHUBHAM! 👋
 
 ![Software Tester](https://img.shields.io/badge/Software%20Tester-QA%20Enthusiast-blue) ![Automation](https://img.shields.io/badge/Test%20Automation-Selenium%20%7C%20Cypress-green) ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Functional%20%7C%20Regression%20%7C%20UAT-orange)
 
@@ -12,11 +12,10 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 ### 🚀 What I Do:
 
 - 🧪 **Manual Testing**: Functional, UI, Regression, Smoke, Sanity, UAT.
-- 🤖 **Automation Testing**: Selenium, JUnit, TestNG, Cypress.
-- 🌐 **API Testing**: Postman, RESTful APIs, SOAP.
-- ⚡ **Performance Testing**: JMeter, LoadRunner.
-- 🐛 **Bug Tracking**: Jira, Bugzilla, TestRail, Zephyr.
-- 🛠 **CI/CD Integration**: Jenkins, GitLab CI.
+- 🤖 **Automation Testing**: Selenium,TestNG.
+- 🌐 **API Testing**: Postman,API.
+- 🐛 **Bug Tracking**: Jira.
+- 🛠 **CI/CD Integration**: GitLab CI.
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="250" alt="Testing Gif">
@@ -29,7 +28,6 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
