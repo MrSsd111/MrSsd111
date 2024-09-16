@@ -48,8 +48,8 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 
 ## 🚀 Projects:
 
-### 1. [Project Name]
-**Description**: A project where I implemented automated testing frameworks.
+### 1. Automation Testing of Web Elements using Selenium.
+**Description**: 
 
 ### 2. [Project Name]
 **Description**: A performance testing project using JMeter to optimize application speed.
@@ -64,4 +64,4 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 
 
 
-Thanks for stopping by! 😊
+Thanks for visit! 😊
