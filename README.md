@@ -1,7 +1,7 @@
 
 # Hi there, I'm SHUBHAM! 👋
 
-![Software Tester](https://img.shields.io/badge/Software%20Tester-QA%20Enthusiast-blue) ![Automation](https://img.shields.io/badge/Test%20Automation-Selenium%20%7C%20Cypress-green) ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Functional%20%7C%20Regression%20%7C%20UAT-orange)
+![Software Tester](https://img.shields.io/badge/Software%20Tester-QA%20Enthusiast-blue) ![Automation](https://img.shields.io/badge/Test%20Automation-Selenium%20%7C%20-green) ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Functional%20%7C%20Regression%20%7C%20UAT-orange)
 
 ---
 
