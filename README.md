@@ -72,9 +72,10 @@ Cart Functionality: Verified cart updates, item quantities, and total price calc
 
 Checkout Process: Tested form validation, user details input, and order placement.
 
-**Challenges**: Handled dynamic elements and utilized explicit waits to synchronize page loads with test execution.
+**Challenges**: Handled dynamic elements and utilized explicit waits to synchronize page loads with test execution. 
+   
+**Outcome**:  Successfully automated the e-commerce workflow, enhancing test coverage for critical user interactions and reducing manual regression testing efforts.
 
-**Outcome**: Successfully automated the e-commerce workflow, enhancing test coverage for critical user interactions and reducing manual regression testing efforts.
 ---
 
 ## 📫 How to Reach Me:
