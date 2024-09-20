@@ -41,7 +41,7 @@ I am a passionate **Software Test Engineer** with a focus on ensuring product qu
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSsd111&show_icons=true&theme=radical)
 
 ---
 
